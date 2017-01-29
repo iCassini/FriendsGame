@@ -12,17 +12,26 @@ public class PlayerController : MonoBehaviour
     private bool _ativarElevador = false;
     private GameObject _muroAmarelo;
 
+    private Animator animator;
+
+    void Start()
+    {
+        animator = this.GetComponent<Animator>();
+    }
+
     private void Update()
     {
+        var horizontal = Input.GetAxis("Horizontal");
+
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
             transform.position += Vector3.right * Velocidade * Time.deltaTime;
-            GetComponent<Animator>().SetFloat("DirX", 1);
+            animator.SetInteger("Direcao", 1);
         }
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
             transform.position += Vector3.left * Velocidade * Time.deltaTime;
-            GetComponent<Animator>().SetFloat("DirX", -1);
+            animator.SetInteger("Direcao", 2);
         }
     }
 
