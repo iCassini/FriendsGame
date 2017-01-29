@@ -1,0 +1,1748 @@
+fileFormatVersion: 2
+guid: 1d62a22443abaf146b201527cfbb7828
+timeCreated: 1485721818
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ' Pulo_Dir_00'
+    21300002: ' Pulo_Dir_01'
+    21300004: ' Pulo_Dir_02'
+    21300006: ' Pulo_Dir_03'
+    21300008: ' Pulo_Dir_04'
+    21300010: ' Pulo_Dir_05'
+    21300012: ' Pulo_Dir_06'
+    21300014: ' Pulo_Dir_07'
+    21300016: ' Pulo_Dir_08'
+    21300018: ' Pulo_Dir_09'
+    21300020: ' Pulo_Dir_10'
+    21300022: ' Pulo_Esq_00'
+    21300024: ' Pulo_Esq_01'
+    21300026: ' Pulo_Esq_02'
+    21300028: ' Pulo_Esq_03'
+    21300030: ' Pulo_Esq_04'
+    21300032: ' Pulo_Esq_05'
+    21300034: ' Pulo_Esq_06'
+    21300036: ' Pulo_Esq_07'
+    21300038: ' Pulo_Esq_08'
+    21300040: ' Pulo_Esq_09'
+    21300042: ' Pulo_Esq_10'
+    21300044: Corrida_Dir_00
+    21300046: Corrida_Dir_01
+    21300048: Corrida_Dir_02
+    21300050: Corrida_Dir_03
+    21300052: Corrida_Dir_04
+    21300054: Corrida_Dir_05
+    21300056: Corrida_Dir_06
+    21300058: Corrida_Dir_07
+    21300060: Corrida_Dir_08
+    21300062: Corrida_Dir_09
+    21300064: Corrida_Dir_10
+    21300066: Corrida_Dir_11
+    21300068: Corrida_Dir_12
+    21300070: Corrida_Dir_13
+    21300072: Corrida_Dir_14
+    21300074: Corrida_Dir_15
+    21300076: Corrida_Dir_16
+    21300078: Corrida_Dir_17
+    21300080: Corrida_Dir_18
+    21300082: Corrida_Dir_19
+    21300084: Corrida_Dir_20
+    21300086: Corrida_Dir_21
+    21300088: Corrida_Dir_22
+    21300090: Corrida_Dir_23
+    21300092: Corrida_Dir_24
+    21300094: Corrida_Dir_25
+    21300096: Corrida_Dir_26
+    21300098: Corrida_Dir_27
+    21300100: Corrida_Esq_00
+    21300102: Corrida_Esq_01
+    21300104: Corrida_Esq_02
+    21300106: Corrida_Esq_03
+    21300108: Corrida_Esq_04
+    21300110: Corrida_Esq_05
+    21300112: Corrida_Esq_06
+    21300114: Corrida_Esq_07
+    21300116: Corrida_Esq_08
+    21300118: Corrida_Esq_09
+    21300120: Corrida_Esq_10
+    21300122: Corrida_Esq_11
+    21300124: Corrida_Esq_12
+    21300126: Corrida_Esq_13
+    21300128: Corrida_Esq_14
+    21300130: Corrida_Esq_15
+    21300132: Corrida_Esq_16
+    21300134: Corrida_Esq_17
+    21300136: Corrida_Esq_18
+    21300138: Corrida_Esq_19
+    21300140: Corrida_Esq_20
+    21300142: Corrida_Esq_21
+    21300144: Corrida_Esq_22
+    21300146: Corrida_Esq_23
+    21300148: Corrida_Esq_24
+    21300150: Corrida_Esq_25
+    21300152: Corrida_Esq_26
+    21300154: Corrida_Esq_27
+    21300156: Repouso_Dir_00
+    21300158: Repouso_Dir_01
+    21300160: Repouso_Dir_02
+    21300162: Repouso_Dir_03
+    21300164: Repouso_Dir_04
+    21300166: Repouso_Dir_05
+    21300168: Repouso_Dir_06
+    21300170: Repouso_Dir_07
+    21300172: Repouso_Dir_08
+    21300174: Repouso_Dir_09
+    21300176: Repouso_Dir_10
+    21300178: Repouso_Dir_11
+    21300180: Repouso_Dir_12
+    21300182: Repouso_Dir_13
+    21300184: Repouso_Dir_14
+    21300186: Repouso_Dir_15
+    21300188: Repouso_Dir_16
+    21300190: Repouso_Dir_17
+    21300192: Repouso_Dir_18
+    21300194: Repouso_Dir_19
+    21300196: Repouso_Dir_20
+    21300198: Repouso_Esq_00
+    21300200: Repouso_Esq_01
+    21300202: Repouso_Esq_02
+    21300204: Repouso_Esq_03
+    21300206: Repouso_Esq_04
+    21300208: Repouso_Esq_05
+    21300210: Repouso_Esq_06
+    21300212: Repouso_Esq_07
+    21300214: Repouso_Esq_08
+    21300216: Repouso_Esq_09
+    21300218: Repouso_Esq_10
+    21300220: Repouso_Esq_11
+    21300222: Repouso_Esq_12
+    21300224: Repouso_Esq_13
+    21300226: Repouso_Esq_14
+    21300228: Repouso_Esq_15
+    21300230: Repouso_Esq_16
+    21300232: Repouso_Esq_17
+    21300234: Repouso_Esq_18
+    21300236: Repouso_Esq_19
+    21300238: Repouso_Esq_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ' Pulo_Dir_00'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1209
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.50390625, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_01'
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1200
+        width: 137
+        height: 118
+      alignment: 9
+      pivot: {x: 0.49270073, y: 0.035084747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_02'
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1564
+        width: 151
+        height: 120
+      alignment: 9
+      pivot: {x: 0.47350994, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_03'
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1925
+        width: 162
+        height: 122
+      alignment: 9
+      pivot: {x: 0.46604937, y: 0.06672131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_04'
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1682
+        width: 166
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47891566, y: 0.06672131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_05'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1683
+        width: 167
+        height: 121
+      alignment: 9
+      pivot: {x: 0.49401197, y: 0.059008263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_06'
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1927
+        width: 169
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_07'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1806
+        width: 169
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_08'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1927
+        width: 170
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5029412, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_09'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1928
+        width: 170
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5029412, y: 0.043193277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Dir_10'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1806
+        width: 169
+        height: 119
+      alignment: 9
+      pivot: {x: 0.50591713, y: 0.043193277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_00'
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1206
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.49609375, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_01'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1323
+        width: 137
+        height: 118
+      alignment: 9
+      pivot: {x: 0.50729924, y: 0.035084747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_02'
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1560
+        width: 151
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5264901, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_03'
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1801
+        width: 162
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5339506, y: 0.06672131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_04'
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1682
+        width: 166
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5210843, y: 0.06672131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_05'
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1683
+        width: 167
+        height: 121
+      alignment: 9
+      pivot: {x: 0.505988, y: 0.059008263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_06'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1806
+        width: 169
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_07'
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1805
+        width: 169
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_08'
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1927
+        width: 170
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4970588, y: 0.051166665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_09'
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1928
+        width: 170
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4970588, y: 0.043193277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ' Pulo_Esq_10'
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1806
+        width: 169
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49408284, y: 0.043193277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_00
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 253
+        width: 103
+        height: 115
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.027304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_01
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 728
+        width: 111
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45495495, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_02
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 615
+        width: 124
+        height: 116
+      alignment: 9
+      pivot: {x: 0.43951613, y: 0.009827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1324
+        width: 135
+        height: 117
+      alignment: 9
+      pivot: {x: 0.44074073, y: 0.0011965812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_04
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1326
+        width: 142
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4471831, y: -0.0073504276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_05
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1445
+        width: 148
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4493243, y: -0.015897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_06
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1564
+        width: 151
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4536424, y: -0.024655173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_07
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1686
+        width: 152
+        height: 117
+      alignment: 9
+      pivot: {x: 0.45723686, y: -0.015897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1564
+        width: 151
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4536424, y: -0.0073504276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1443
+        width: 150
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45, y: 0.017983193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1443
+        width: 147
+        height: 119
+      alignment: 9
+      pivot: {x: 0.44557822, y: 0.026386555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1323
+        width: 141
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4432624, y: 0.02661017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1203
+        width: 134
+        height: 119
+      alignment: 9
+      pivot: {x: 0.43656716, y: 0.043193277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 733
+        width: 127
+        height: 119
+      alignment: 9
+      pivot: {x: 0.43700787, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1440
+        width: 115
+        height: 118
+      alignment: 9
+      pivot: {x: 0.43913043, y: 0.052033897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 845
+        width: 105
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48095238, y: 0.026837606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 257
+        width: 103
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.018290598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 276
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.017983193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 273
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.009579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 266
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51941746, y: 0.0011764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 390
+        width: 104
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5144231, y: 0.0011764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_21
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 490
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.51941746, y: 0.0011764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 35
+        width: 103
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51941746, y: 0.0011864407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_23
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 384
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.017983193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 269
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.026386555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 35
+        width: 103
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02661017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 37
+        width: 103
+        height: 118
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.035084747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Dir_27
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 145
+        width: 103
+        height: 117
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.043931626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_00
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 136
+        width: 103
+        height: 115
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.027304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_01
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 611
+        width: 111
+        height: 115
+      alignment: 9
+      pivot: {x: 0.545045, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_02
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 505
+        width: 124
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5604839, y: 0.009827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_03
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1207
+        width: 135
+        height: 117
+      alignment: 9
+      pivot: {x: 0.55925924, y: 0.0011965812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_04
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1326
+        width: 142
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5528169, y: -0.0073504276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_05
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1445
+        width: 148
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5506757, y: -0.015897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_06
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1564
+        width: 151
+        height: 116
+      alignment: 9
+      pivot: {x: 0.54635763, y: -0.024655173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_07
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1682
+        width: 152
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5427632, y: -0.015897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_08
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1564
+        width: 151
+        height: 117
+      alignment: 9
+      pivot: {x: 0.54635763, y: -0.0073504276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_09
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1443
+        width: 150
+        height: 119
+      alignment: 9
+      pivot: {x: 0.55, y: 0.017983193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1439
+        width: 147
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5544218, y: 0.026386555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1319
+        width: 141
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5567376, y: 0.02661017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1202
+        width: 134
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5634328, y: 0.043193277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 964
+        width: 127
+        height: 119
+      alignment: 9
+      pivot: {x: 0.56299216, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1320
+        width: 115
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5608696, y: 0.052033897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 496
+        width: 105
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5190476, y: 0.026837606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_16
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 26
+        width: 103
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.018290598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 157
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.017983193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 155
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.009579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 152
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.48058254, y: 0.0011764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 278
+        width: 104
+        height: 119
+      alignment: 9
+      pivot: {x: 0.48557693, y: 0.0011764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.48058254, y: 0.0011764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 376
+        width: 103
+        height: 118
+      alignment: 9
+      pivot: {x: 0.48058254, y: 0.0011864407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.017983193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 31
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.026386555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_25
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 264
+        width: 103
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02661017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 370
+        width: 103
+        height: 118
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.035084747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Corrida_Esq_27
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 251
+        width: 103
+        height: 117
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.043931626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_00
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 854
+        width: 127
+        height: 115
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_01
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1092
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.50390625, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1090
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.50390625, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_03
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 976
+        width: 128
+        height: 114
+      alignment: 9
+      pivot: {x: 0.50390625, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_04
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 848
+        width: 127
+        height: 114
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 738
+        width: 127
+        height: 114
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_06
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 861
+        width: 128
+        height: 113
+      alignment: 9
+      pivot: {x: 0.51171875, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_07
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 859
+        width: 128
+        height: 113
+      alignment: 9
+      pivot: {x: 0.51171875, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 127
+        height: 113
+      alignment: 9
+      pivot: {x: 0.515748, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_09
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 859
+        width: 128
+        height: 112
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.010178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 747
+        width: 128
+        height: 112
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.010178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 394
+        width: 127
+        height: 112
+      alignment: 9
+      pivot: {x: 0.52362204, y: 0.010178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 733
+        width: 127
+        height: 113
+      alignment: 9
+      pivot: {x: 0.52362204, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 623
+        width: 127
+        height: 113
+      alignment: 9
+      pivot: {x: 0.52362204, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 855
+        width: 128
+        height: 113
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 974
+        width: 128
+        height: 114
+      alignment: 9
+      pivot: {x: 0.51953125, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 626
+        width: 127
+        height: 114
+      alignment: 9
+      pivot: {x: 0.515748, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 970
+        width: 128
+        height: 114
+      alignment: 9
+      pivot: {x: 0.51171875, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1086
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.51171875, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 742
+        width: 127
+        height: 115
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Dir_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 630
+        width: 127
+        height: 115
+      alignment: 9
+      pivot: {x: 0.507874, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_00
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 628
+        width: 127
+        height: 115
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1085
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.49609375, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_02
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1202
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.49609375, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 969
+        width: 128
+        height: 114
+      alignment: 9
+      pivot: {x: 0.49609375, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_04
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 514
+        width: 127
+        height: 114
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_05
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 512
+        width: 127
+        height: 114
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 854
+        width: 128
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48828125, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_07
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1085
+        width: 128
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48828125, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_08
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 511
+        width: 127
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48425198, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_09
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 745
+        width: 128
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48046875, y: 0.010178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 741
+        width: 128
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48046875, y: 0.010178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 127
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47637796, y: 0.010178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 399
+        width: 127
+        height: 113
+      alignment: 9
+      pivot: {x: 0.47637796, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 397
+        width: 127
+        height: 113
+      alignment: 9
+      pivot: {x: 0.47637796, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 971
+        width: 128
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48046875, y: 0.010088496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1086
+        width: 128
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48046875, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 508
+        width: 127
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48425198, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 973
+        width: 128
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48828125, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1089
+        width: 128
+        height: 115
+      alignment: 9
+      pivot: {x: 0.48828125, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 624
+        width: 127
+        height: 115
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Repouso_Esq_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 616
+        width: 127
+        height: 115
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.009913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
