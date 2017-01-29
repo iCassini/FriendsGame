@@ -17,10 +17,12 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
         {
             transform.position += Vector3.right * Velocidade * Time.deltaTime;
+            GetComponent<Animator>().SetFloat("DirX", 1);
         }
         if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
         {
             transform.position += Vector3.left * Velocidade * Time.deltaTime;
+            GetComponent<Animator>().SetFloat("DirX", -1);
         }
     }
 
